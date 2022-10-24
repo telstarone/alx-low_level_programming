@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../../../c/c"
+		},
+		{
+			"name": "printf",
+			"path": "../../../c/c/printf"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"stdio.h": "c"
+		}
+	}
+}
